@@ -6,7 +6,7 @@ I am currently working in the consumer electronics industry for EDEN where we ar
 
 ### Languages :
 
-<img src="https://img.icons8.com/ios/50/000000/c-sharp-logo.png" alt="" /> <img src="https://img.icons8.com/ios/50/000000/golang.png" alt="" /> <img width=50 height=50 src="https://danrousseau.xyz/img/python.svg" alt="" /> <img width=50 height=50 src="https://img.icons8.com/dotty/80/000000/sql.png" alt="" />
+<img width=50 height=50 src="https://img.icons8.com/ios/50/000000/c-sharp-logo.png" alt="" /> <img width=50 height=50 src="https://img.icons8.com/ios/50/000000/golang.png" alt="" /> <img width=50 height=50 src="https://danrousseau.xyz/img/python.svg" alt="" /> <img width=50 height=50 src="https://img.icons8.com/dotty/80/000000/sql.png" alt="" />
 
 ### Toolbox :
 <img width=50 height=50 src="https://img.icons8.com/wired/64/000000/linux.png" alt="" /> <img width=50 height=50 src="https://danrousseau.xyz/img/docker.svg" alt="" /> <img width=50 height=50 src="https://danrousseau.xyz/img/unity.svg" alt="" /> <img width=50 height=50 src="https://danrousseau.xyz/img/azure.svg" alt="" />
