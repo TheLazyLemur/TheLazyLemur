@@ -1,12 +1,14 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Dan Rousseau</h1>
+<h3 align="center">A passionate fullstack engineer from South Africa, focusing on backend and native cloud development.</h3>
 
-I am a fullstack developer based in Johannesburg, South Africa, I have 3 years of professional experience building and deploying games, cloud applications and maintaining servers. I have gained skills in many aspects of the IT and development industry including but not limited to game development, web development, networking and cloud computing.
+- 🔭 I’m currently working on [Eden Snacker](https://www.madebyeden.com/)
 
-I am currently working in the consumer electronics industry for EDEN where we are working on The Eden Snacker, VR made easy.
+- 🌱 I’m currently learning **Golang, Kubernetes, Azure**
 
-### Languages :
+- 💬 Ask me about **Dotnet and Balzor**
 
-<img width=50 height=50 src="https://img.icons8.com/ios/50/000000/c-sharp-logo.png" alt="" /> <img width=50 height=50 src="https://img.icons8.com/ios/50/000000/golang.png" alt="" /> <img width=50 height=50 src="https://danrousseau.xyz/img/python.svg" alt="" /> <img width=50 height=50 src="https://img.icons8.com/dotty/80/000000/sql.png" alt="" />
+- 📫 How to reach me **danrousseau@protonmail.com**
 
-### Toolbox :
-<img width=50 height=50 src="https://img.icons8.com/wired/64/000000/linux.png" alt="" /> <img width=50 height=50 src="https://danrousseau.xyz/img/docker.svg" alt="" /> <img width=50 height=50 src="https://danrousseau.xyz/img/unity.svg" alt="" /> <img width=50 height=50 src="https://danrousseau.xyz/img/azure.svg" alt="" />
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.chartjs.org" target="_blank"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://gohugo.io/" target="_blank"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
