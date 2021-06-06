@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Golang, Kubernetes, Azure**
 
-- 💬 Ask me about **Dotnet and Balzor**
+- 💬 Ask me about **Dotnet and Blazor**
 
 - 📫 How to reach me **danrousseau@protonmail.com**
 
