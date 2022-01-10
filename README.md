@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dan Rousseau</h1>
-<h3 align="center">A passionate fullstack engineer from South Africa, focusing on backend and native cloud development.</h3>
-
-- 🔭 I’m currently working on [Eden Snacker](https://www.madebyeden.com/)
+<h3 align="center">A passionate software engineer from South Africa, focusing on backend and native cloud development.</h3>
 
 - 🌱 I’m currently learning **Golang, Kubernetes, Azure**
-
-- 💬 Ask me about **Dotnet and Blazor**
 
 - 📫 How to reach me **danrousseau@protonmail.com**
 
