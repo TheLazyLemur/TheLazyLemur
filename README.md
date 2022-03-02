@@ -11,6 +11,6 @@
 
 
 
-![Dan's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheLazyLemur&show_icons=true&theme=radical)
+![Dan's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheLazyLemur&show_icons=true&theme=radical&cache_seconds=1800)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheLazyLemur)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=TheLazyLemur&langs_count=3&hide=css,html,HTML&(=https%3A%2F%2Fgithub.com%2Fanuraghazra%2Fgithub-readme-stats&theme=onedark&hide_border=true&cache_seconds=1800)
